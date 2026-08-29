@@ -53,6 +53,13 @@ export default function Navbar() {
             >
               (जोधपुर वाले)
             </span>
+            <span
+              className={`mt-0.5 block text-[0.65rem] font-medium italic tracking-wide ${
+                scrolled ? 'text-ink-600' : 'text-white/70'
+              }`}
+            >
+              Mahindra Bhai Halwai
+            </span>
           </span>
         </button>
 

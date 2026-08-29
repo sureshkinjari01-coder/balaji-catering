@@ -193,24 +193,24 @@ export const TESTIMONIALS = [
     name: 'Rakesh Jain',
     role: 'Banswara',
     rating: 5,
-    text: 'The taste and service at my daughter wedding were both unmatched. Every guest praised the food. Heartfelt thanks to Shree Balaji Caterers.',
+    text: 'The taste and service at my daughter\'s wedding were both unmatched. Every guest praised the food. Shree Balaji Catering Service made our special day truly memorable with their royal spread and professional team.',
   },
   {
     name: 'Sunita Soni',
     role: 'Dungarpur',
     rating: 5,
-    text: 'We needed pure satvik food for a religious feast. It was prepared exactly as per tradition — the taste was wonderful and the trust was complete.',
+    text: 'We needed pure satvik food for a religious feast. Shree Balaji Catering Service prepared it exactly as per tradition — without onion or garlic, in pure desi ghee. The taste was wonderful and the trust was complete.',
   },
   {
     name: 'Mahesh Patel',
     role: 'Udaipur',
     rating: 5,
-    text: 'Professional setup and on-time service at our corporate event. The live chaat counter became everyone favorite. A great experience.',
+    text: 'Professional setup and on-time service at our corporate event. The live chaat counter became everyone\'s favorite. Shree Balaji Catering Service delivered a truly great experience from start to finish.',
   },
   {
     name: 'Kamla Sharma',
     role: 'Jodhpur',
     rating: 5,
-    text: 'Got the authentic taste of Rajasthani dishes. The aroma of desi ghee is still memorable. When Jodhpur folks say it, it truly means something.',
+    text: 'Got the authentic taste of Rajasthani dishes from Shree Balaji Catering Service. The aroma of desi ghee is still memorable. When Jodhpur folks say it, it truly means something special.',
   },
 ];
